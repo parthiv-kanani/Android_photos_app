@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "com.example.android22.app-merged_res-31:/layout_tag_item.xml.flat",
+        "source": "com.example.android22.app-main-33:/layout/tag_item.xml"
+    },
+    {
+        "merged": "com.example.android22.app-merged_res-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.android22.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.android22.app-merged_res-31:/drawable_add_photo_item_background.xml.flat",
+        "source": "com.example.android22.app-main-33:/drawable/add_photo_item_background.xml"
+    },
+    {
+        "merged": "com.example.android22.app-merged_res-31:/layout_album_item.xml.flat",
+        "source": "com.example.android22.app-main-33:/layout/album_item.xml"
+    },
+    {
+        "merged": "com.example.android22.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.android22.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.android22.app-merged_res-31:/layout_album_view.xml.flat",
+        "source": "com.example.android22.app-main-33:/layout/album_view.xml"
+    },
+    {
+        "merged": "com.example.android22.app-merged_res-31:/layout_add_tag_util.xml.flat",
+        "source": "com.example.android22.app-main-33:/layout/add_tag_util.xml"
+    },
+    {
+        "merged": "com.example.android22.app-merged_res-31:/layout_add_photo_item.xml.flat",
+        "source": "com.example.android22.app-main-33:/layout/add_photo_item.xml"
+    },
+    {
+        "merged": "com.example.android22.app-merged_res-31:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.android22.app-main-33:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.android22.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.android22.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.android22.app-merged_res-31:/drawable_delete_icon.xml.flat",
+        "source": "com.example.android22.app-main-33:/drawable/delete_icon.xml"
+    },
+    {
+        "merged": "com.example.android22.app-merged_res-31:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.android22.app-main-33:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.android22.app-merged_res-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.android22.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.android22.app-merged_res-31:/drawable_test.png.flat",
+        "source": "com.example.android22.app-main-33:/drawable/test.png"
+    },
+    {
+        "merged": "com.example.android22.app-merged_res-31:/drawable_search_icon_background.xml.flat",
+        "source": "com.example.android22.app-main-33:/drawable/search_icon_background.xml"
+    },
+    {
+        "merged": "com.example.android22.app-merged_res-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.android22.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.android22.app-merged_res-31:/drawable_albums_item_background.xml.flat",
+        "source": "com.example.android22.app-main-33:/drawable/albums_item_background.xml"
+    },
+    {
+        "merged": "com.example.android22.app-merged_res-31:/drawable_search_icon.xml.flat",
+        "source": "com.example.android22.app-main-33:/drawable/search_icon.xml"
+    },
+    {
+        "merged": "com.example.android22.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.android22.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.android22.app-merged_res-31:/layout_search_util.xml.flat",
+        "source": "com.example.android22.app-main-33:/layout/search_util.xml"
+    },
+    {
+        "merged": "com.example.android22.app-merged_res-31:/drawable_back_icon.xml.flat",
+        "source": "com.example.android22.app-main-33:/drawable/back_icon.xml"
+    },
+    {
+        "merged": "com.example.android22.app-merged_res-31:/layout_albums_item.xml.flat",
+        "source": "com.example.android22.app-main-33:/layout/albums_item.xml"
+    },
+    {
+        "merged": "com.example.android22.app-merged_res-31:/layout_move_view.xml.flat",
+        "source": "com.example.android22.app-main-33:/layout/move_view.xml"
+    },
+    {
+        "merged": "com.example.android22.app-merged_res-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.android22.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.android22.app-merged_res-31:/drawable_add_tag.xml.flat",
+        "source": "com.example.android22.app-main-33:/drawable/add_tag.xml"
+    },
+    {
+        "merged": "com.example.android22.app-merged_res-31:/xml_backup_rules.xml.flat",
+        "source": "com.example.android22.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.android22.app-merged_res-31:/drawable_album_item_foreground.xml.flat",
+        "source": "com.example.android22.app-main-33:/drawable/album_item_foreground.xml"
+    },
+    {
+        "merged": "com.example.android22.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.android22.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.android22.app-merged_res-31:/layout_albums_view.xml.flat",
+        "source": "com.example.android22.app-main-33:/layout/albums_view.xml"
+    },
+    {
+        "merged": "com.example.android22.app-merged_res-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.android22.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.android22.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.android22.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.android22.app-merged_res-31:/drawable_add_photo.xml.flat",
+        "source": "com.example.android22.app-main-33:/drawable/add_photo.xml"
+    },
+    {
+        "merged": "com.example.android22.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.android22.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.android22.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.android22.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.android22.app-merged_res-31:/layout_search_view.xml.flat",
+        "source": "com.example.android22.app-main-33:/layout/search_view.xml"
+    },
+    {
+        "merged": "com.example.android22.app-merged_res-31:/drawable_move_icon.xml.flat",
+        "source": "com.example.android22.app-main-33:/drawable/move_icon.xml"
+    },
+    {
+        "merged": "com.example.android22.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.android22.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.android22.app-merged_res-31:/layout_photo_view.xml.flat",
+        "source": "com.example.android22.app-main-33:/layout/photo_view.xml"
+    }
+]

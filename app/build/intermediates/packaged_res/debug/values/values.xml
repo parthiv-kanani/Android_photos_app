@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operator_options">
+    <item>N/A</item>
+    <item>AND</item>
+    <item>OR</item>
+</string-array>
+    <string-array name="tag_types">
+        <item>Person</item>
+        <item>Location</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="swipe_delete_background">#FF1100</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="albumNameHolder">New Album Name</string>
+    <string name="app_name">android22</string>
+    <style name="Base.Theme.android22" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.android22" parent="Base.Theme.android22"/>
+</resources>
